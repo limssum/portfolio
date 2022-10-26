@@ -1,15 +1,24 @@
 # Pika-Project
+
 ## 프로젝트 소개
+
 * 개발 기간 : 2022년 7월 12일 ~ 2022년 7월 14일
 * 개발 인원 : 5명
 
+## 프로젝트 일정
+
+![image](https://user-images.githubusercontent.com/89984853/198159660-eb619671-2ebc-46ac-8793-08e976351eb4.png)
+
 ## 사용 기술
+
 1. 언어 : Java, SQL
 2. Tool : eclipse, oracle(developer)
 
 ## ER Diagram
 
+
 ## 팀원 역할 및 소개
+
 |  이름  |  역할  |                 Github 주소                 |
 | :----: | :----: | :-----------------------------------------: |
 | 김도연[팀장] |  자료 흐름도, 기능 분석 및 명세서, 로그인, 회원가입, 게임 로직 및 구현, 최종 정리 |     [Github](https://github.com/kdn00)     |
