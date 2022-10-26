@@ -12,4 +12,4 @@
 | 김기범 |   [Github](https://github.com/colaage23)    |
 | 황윤정 |   [Github](https://github.com/jjenniyun)   |
 | 임수민 |    [Github](https://github.com/wjdrmstnals)    |
-| 박선우 | [Github](https://github.com/) |
+| 박선우 | - |
