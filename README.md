@@ -26,6 +26,7 @@
 2. Tool : eclipse, oracle(developer)
 
 ## 2. ER Diagram
+![image](https://user-images.githubusercontent.com/89984853/198168171-b97a8eba-d5d9-425f-9793-fe0d947ded3a.png)
 
 ## 3. 흐름도
 ![피카츄 흐름도](https://user-images.githubusercontent.com/89984853/198162917-6048c184-87c4-4f73-a043-7d42bed83044.png)
