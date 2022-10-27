@@ -44,6 +44,19 @@
 ![image](https://user-images.githubusercontent.com/89984853/198159660-eb619671-2ebc-46ac-8793-08e976351eb4.png)
 
 ## 5. 구현 화면
+- 메인 화면   
+![image](https://user-images.githubusercontent.com/89984853/198171786-f0b34394-9a53-4f71-b46e-511a54afd276.png)
+
+- 게임 진행
+  - 알맞은 선택지를 선택했을 때 / 선택하지 않았을 때   
+![image](https://user-images.githubusercontent.com/89984853/198171832-a33e075a-3ed9-4605-b6df-e2626adf969c.png)
+
+- 레벨업   
+![image](https://user-images.githubusercontent.com/89984853/198172054-8dc050d7-de01-4ad1-b746-c1fbd7a2952f.png)
+
+- 에너지가 소진되어 피카츄 데이터 삭제   
+![image](https://user-images.githubusercontent.com/89984853/198172174-96172ad8-2e8e-40af-bca3-0eed87a22a24.png)
+
 
 ## 6. 팀원 역할 및 소개
 
