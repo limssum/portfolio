@@ -66,7 +66,7 @@
 | 김기범 |  로그인, 자료 흐름도, 게임 구현 |   [Github](https://github.com/colaage23)    |
 | 황윤정 |  로그인, 게임 구현  |   [Github](https://github.com/jjenniyun)   |
 | 임수민 |  회원가입, 게임 구현  |    [Github](https://github.com/wjdrmstnals)    |
-| 박선우 |  회원가입  | - |
+| 박선우 |  회원가입  | - [Github](https://github.com/Jjomyi) |
 
 ## 7. 프로젝트를 진행하며 느낀 점과 학습한 것
 
